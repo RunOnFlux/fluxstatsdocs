@@ -14,7 +14,7 @@
     "x-logo": {
       "url": "https://raw.githubusercontent.com/runonflux/fluxdocs/master/flux.jpg"
     },
-    "description": "This is an API documentation of calls available to be made to Flux Stats. <br> GET Calls are available as both query and in order as path. <br> Flux Stats provides up to a month of statistics data of entire Flux network. We encourage everyone to feel free and contribute :) <br> Further questions or support join and ask in our [discord](https://discord.io/runonflux)\n# Introduction\nFlux Stats is a collection of API's being used to collect all data needed by Flux Stats Dashboard \n# Getting Started with the API\n1. You can use browser directly to access the API's\n2. You can also use any client tools such as postman or soap ui to access the API's"
+    "description": "This is an API documentation of calls available to be made to Flux Stats. <br> GET Calls are available as both query and in order as path. <br> Flux Stats provides up to a month of statistics data of entire Flux network. We encourage everyone to feel free and contribute :) <br> Further questions or support join and ask in our [discord](https://discord.gg/runonflux)\n# Introduction\nFlux Stats is a collection of API's being used to collect all data needed by Flux Stats Dashboard \n# Getting Started with the API\n1. You can use browser directly to access the API's\n2. You can also use any client tools such as postman or soap ui to access the API's"
   },
   "externalDocs": {
     "description": "Flux Stats",
